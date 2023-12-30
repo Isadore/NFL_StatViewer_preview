@@ -1,5 +1,8 @@
 ## NFL StatViewer Website
 
+### Goal
+A fast, user friendly platform for users to analye their favorite NFL players and matchups just like the commentators do on TV.
+
 ### Features
 - Basic Team Stats and Rankings
 - Custom Interactive Charts
