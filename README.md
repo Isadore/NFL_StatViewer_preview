@@ -1,6 +1,6 @@
-# NFL StatViewer Website
+## NFL StatViewer Website
 
-## Features:
+### Features
 - Basic Team Stats and Rankings
 - Custom Interactive Charts
   - Trend Line
@@ -16,7 +16,7 @@
 - Login page to prevent public access while in development
 - More Features in progress...
 
-## Technologies Used:
+### Technologies Used
 - HTML, CSS, SASS
 - HTTPS, Express Server Backend
   - Hosted Via Raspberry PI
@@ -26,10 +26,10 @@
 - No Javascript Frameworks
 - ESPN APIs + Web Scraping used for data aggregation
 
-# Example Pages:
+## Example Pages
 
-## Mobile Site:
+### Mobile Site
 ![Mobile Preview](https://github.com/Isadore/NFL_StatViewer_preview/blob/main/MobilePage.jpeg)
 
-## Desktop Site:
+### Desktop Site
 ![Desktop Preview](https://github.com/Isadore/NFL_StatViewer_preview/blob/main/SamplePageFull.jpeg)
