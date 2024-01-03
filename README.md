@@ -1,6 +1,8 @@
 ## NFL StatViewer Website
 
 ### Preview Video
+[https://youtu.be/-XntU9TjZh8](https://youtu.be/-XntU9TjZh8)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-XntU9TjZh8/0.jpg)](https://youtu.be/-XntU9TjZh8)
 
 ### Goal
