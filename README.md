@@ -6,7 +6,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-XntU9TjZh8/0.jpg)](https://youtu.be/-XntU9TjZh8)
 
 ### Goal
-A fast, user friendly platform for users to analyze their favorite NFL players and matchups just like the commentators do on TV.
+A fast, user friendly platform for users to analyze their favorite NFL players and team matchups.
 
 ### Features
 - Basic Team Stats and Rankings
